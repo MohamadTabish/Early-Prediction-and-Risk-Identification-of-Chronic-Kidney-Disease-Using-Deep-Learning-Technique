@@ -1,4 +1,4 @@
-Early Prediction and Risk Identification of Chronic Kidney Disease Using Deep Learning
+#Early Prediction and Risk Identification of Chronic Kidney Disease Using Deep Learning
 This project focuses on the early prediction and risk identification of Chronic Kidney Disease (CKD) using advanced deep learning techniques. CKD is a progressive condition that affects kidney function and, if not detected early, can lead to severe complications, including kidney failure. The goal of this research is to develop an accurate and efficient deep learning model to predict CKD in its early stages, allowing for timely medical intervention and better patient outcomes.
 
 Key Features
